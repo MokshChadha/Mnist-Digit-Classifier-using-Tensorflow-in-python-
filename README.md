@@ -6,6 +6,8 @@ Some examples require MNIST dataset for training and testing. Don't worry, this 
 
 `mnist = input_data.read_data_sets("MNIST_data/", one_hot = True)`
 
+or you can just download and extract the data from MNIST_data folder and give it's path in `input_data.read_data_sets()` command.
+
 MNIST is a database of handwritten digits, for a quick description of that dataset, you can check this notebook.
 
 Official Website: http://yann.lecun.com/exdb/mnist/.
