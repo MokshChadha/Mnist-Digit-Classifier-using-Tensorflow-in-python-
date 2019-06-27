@@ -15,7 +15,7 @@ Official Website: http://yann.lecun.com/exdb/mnist/.
 ## Installation
 To run them simply clone the repository 
 
-`here comes a  link`
+git@github.com:MokshChadha/Mnist-Digit-Classifier-using-Tensorflow-in-python-.git
 
 To run the jupyter notebook
 `pip install --upgrade pip`
